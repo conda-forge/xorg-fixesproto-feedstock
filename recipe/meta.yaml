@@ -29,6 +29,9 @@ requirements:
     - posix  # [win]
     - toolchain
     - xorg-util-macros
+    - xorg-xextproto
+  run:
+    - xorg-xextproto
 
 test:
   commands:
