@@ -7,7 +7,7 @@ Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: Definitions for the "X fixes" protocol.
+Summary: "X fixes" extension C prototypes.
 
 
 
